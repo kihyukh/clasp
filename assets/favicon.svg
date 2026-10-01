@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Clasp</title>
+  <desc>Two overlapping sheets, a paper and its companion note.</desc>
+  <defs><filter id="shadow" x="-10%" y="-10%" width="120%" height="124%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#101f30" flood-opacity=".2"/></filter></defs>
+  <rect x="72" y="72" width="880" height="880" rx="196" fill="#203b57" filter="url(#shadow)"/>
+  <rect x="280" y="230" width="364" height="464" rx="36" fill="#80aebb"/>
+  <rect x="380" y="330" width="364" height="464" rx="36" fill="#f5f7fa"/>
+</svg>
