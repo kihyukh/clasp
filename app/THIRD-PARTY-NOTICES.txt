@@ -115,6 +115,12 @@ License information: git+https://github.com/Brooooooklyn/canvas.git
 
 
 ========================================================================
+@napi-rs/canvas-darwin-x64 1.0.9
+License: MIT
+License information: git+https://github.com/Brooooooklyn/canvas.git
+
+
+========================================================================
 @nodable/entities 3.0.0
 License: MIT
 License information: git+https://github.com/nodable/val-parsers.git
